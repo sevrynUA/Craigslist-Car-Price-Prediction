@@ -16,6 +16,8 @@ Variables like year, odometer, and manufacturer significantly impact pricing.
 ## Strengths  
 Random Forest effectively captures non-linear relationships and interactions between variables compared to baseline models.  
 ## Challenges 
-Handling high-cardinality features and filtering noisy data from online marketplaces, and handling missing data.  
+Handling high-cardinality features and filtering noisy data from online marketplaces.  
+## Improvements
+Test out more powerful or novel models, tune hyperparameters for better performance, handle missing data more effectively.
 
 [link to dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
