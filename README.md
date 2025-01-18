@@ -1,4 +1,4 @@
-# Craigslist-Car-Price-Prediction
+# Used Vehicle Price Prediction using Craigslist data
 [link to dataset](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
 
 This project aims to address challenges in the used car market by developing a machine learning model to estimate the market value of used vehicles based on online listing information.
