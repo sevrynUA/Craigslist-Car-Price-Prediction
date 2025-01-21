@@ -10,7 +10,7 @@
 | Random Forest w/ tuned hyperparams | 3,557.13           | 0.9180           |
 ### Interpretation
 
-Since the price of cars is typically in the tens of thousands, the performance of our final model (Random Forest Regressor with tuned hyperparameters) is acceptable. The model achieves an RMSE of $3,557, meaning its predictions are, on average, off by only $3,557. With an R² of 0.9180, the model can explain 91.51% of the variance in car prices, making it a effective tool for estimating used car values.
+Since the price of cars is typically in the tens of thousands, the performance of our final model (Random Forest Regressor with tuned hyperparameters) is acceptable. The model achieves an RMSE of $3,557, meaning its predictions are, on average, off by only $3,557. With an R² of 0.9180, the model can explain 91.80% of the variance in car prices, making it a effective tool for estimating used car values.
 
 ## Insights  
 Variables like year, odometer, and manufacturer significantly impact pricing.  
